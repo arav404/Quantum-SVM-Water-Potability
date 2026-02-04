@@ -1,4 +1,4 @@
-# Quantum Machine Learning for Water Potability Classification
+# Quantum SVM for Water Potability Classification
 
 This project investigates the application of **quantum-enhanced machine learning** to a real-world binary classification task: predicting water potability from physicochemical measurements. Classical machine learning models are used as strong baselines and compared against a **Quantum Support Vector Classifier (QSVC)** built using fidelity-based quantum kernels.
 
